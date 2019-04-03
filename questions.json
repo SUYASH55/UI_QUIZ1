@@ -1,0 +1,242 @@
+[
+    {
+        "question": "Who wrote Mahabharata?",   
+        "choice1": "Durvasa",
+        "choice2": "Ved Vyasa",
+        "choice3": "Shaunak",
+        "choice4": "Lord Ganesha",
+        "answer": 4
+    },
+    {
+        "question": "Which of these character is not son of Arjuna?",
+        "choice1": "Abhimanyu",
+        "choice2": "Shaitanik",
+        "choice3": "Iravan",
+        "choice4": "Babhruvahan",
+        "answer": 2
+    },
+    {
+        "question": "How many sons Kunti had?",
+        "choice1": " 5 ",
+        "choice2": " 3 ",
+        "choice3": " 4 ",
+        "choice4": " 6 ",
+        "answer": 3
+    },
+    {
+        "question": "What is name of conch shell possessed by Bheem?",
+        "choice1": "Paundra",
+        "choice2": "Devdutt",
+        "choice3": "AnantVijaya",
+        "choice4": "Panchjanya",
+        "answer": 1
+    },
+    {
+        "question": "Which of these warriors is not a student of Sage Parshuram?",
+        "choice1": "Bheeshma",
+        "choice2": "Karna",
+        "choice3": "Ashvathama",
+        "choice4": "Drona",
+        "answer": 3
+    },
+    {
+        "question": "Which of these is not Lord Krishna's wife?",
+        "choice1": "Rukmini",
+        "choice2": "Rohini",
+        "choice3": "Satyabhama",
+        "choice4": "Radha",
+        "answer": 4
+    },
+    {
+        "question": "Who was the first chief commander of kaurava army?",
+        "choice1": "Karna",
+        "choice2": "Bheeshma",
+        "choice3": "Drona",
+        "choice4": "Shalya",
+        "answer": 2
+    },
+    {
+        "question": "Which of these is the capital of Panchal kingdom?",
+        "choice1": "Kampilya",
+        "choice2": "Ekchakra",
+        "choice3": "Vaarnavat",
+        "choice4": "Virat",
+        "answer": 1
+    },
+    {
+        "question": "Which of these warriors was renowned as Teen Baandhaari?",
+        "choice1": "Meghbaan",
+        "choice2": "Ghatotkach",
+        "choice3": "Barbarik",
+        "choice4": "Arjun",
+        "answer": 3
+    },
+    {
+        "question": "By which weapon Karna killed Ghatotkach?",
+        "choice1": "Brahmastra",
+        "choice2": "Sarp Mukhastra",
+        "choice3": "Amogh Shakti",
+        "choice4": "Divyastra",
+        "answer": 3
+    },
+    {
+        "question": "Who were the parents of Barbarik?",
+        "choice1": "Yudhisthir-Draupadi",
+        "choice2": "Ghatotkach-Maurvi",
+        "choice3": "Abhimanyu-Uttara",
+        "choice4": "Arjun-Chitrangada",
+        "answer": 2
+    },
+    {
+        "question": "Who handed over the Sudarshan Chakra to Krishna?",
+        "choice1": "Agni Dev",
+        "choice2": "Vasudev",
+        "choice3": "Hanuman",
+        "choice4": "Parshuram",
+        "answer": 4
+    },
+    {
+        "question": "After Jarasandh's death who became king of Magadh?",
+        "choice1": "Sehdev",
+        "choice2": "Yudhisthir",
+        "choice3": "Drupad",
+        "choice4": "Shishupal",
+        "answer": 1
+    },
+    {
+        "question": "How many wives Arjuna had?",
+        "choice1": "4",
+        "choice2": "3",
+        "choice3": "5",
+        "choice4": "2",
+        "answer": 1
+    },
+    {
+        "question": "Which God handed over Gandiva named bow to Arjuna?",
+        "choice1": "Indra",
+        "choice2": "Varuna",
+        "choice3": "Agni",
+        "choice4": "Kuber",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following Krishna asked Barbarik as Guru Dakshina?",
+        "choice1": "Barbarik's Bow",
+        "choice2": "Barbarik's Mantra",
+        "choice3": "Barbarik's Head",
+        "choice4": "Money",
+        "answer": 3
+    },
+    {
+        "question": "What is the real name of Mahabharat story?",
+        "choice1": "Bharat",
+        "choice2": "Mahapuran",
+        "choice3": "Vijaya",
+        "choice4": "Jaya",
+        "answer": 4
+    },
+    {
+        "question": "Which of these is not name of Draupadi?",
+        "choice1": "Panchali",
+        "choice2": "Pritha",
+        "choice3": "Krishna",
+        "choice4": "Yaagyaseni",
+        "answer": 2
+    },
+    {
+        "question": "What is the name of Duryodhan's son?",
+        "choice1": "Laksman",
+        "choice2": "Samba",
+        "choice3": "Suyojan",
+        "choice4": "Shrutsena",
+        "answer": 1
+    },
+    {
+        "question": "Which Yagya was performed by Yudhisthir after Mahabharat War?",
+        "choice1": "Rajsuya",
+        "choice2": "Ashvamegha",
+        "choice3": "Vaishnav",
+        "choice4": "Ashtajam",
+        "answer": 2
+    },
+    {
+        "question": "How many chapters are there in Bhagvad Geeta?",
+        "choice1": "10",
+        "choice2": "25",
+        "choice3": "36",
+        "choice4": "18",
+        "answer": 4
+    },
+    {
+        "question": "Which warrior was martyred at the very first day of Mahabharat War?",
+        "choice1": "Virat",
+        "choice2": "Yudhamanyu",
+        "choice3": "Uttar",
+        "choice4": "Abhimanyu",
+        "answer": 3
+    },
+    {
+        "question": "Which of these is Karna's wife?",
+        "choice1": "Padmavati",
+        "choice2": "Ullupi",
+        "choice3": "Shrutkirti",
+        "choice4": "Bhanumati",
+        "answer": 1
+    },
+    {
+        "question": "Bheem met whom during exile?",
+        "choice1": "Dharmdev",
+        "choice2": "Indra",
+        "choice3": "Shiv",
+        "choice4": "Hanuman",
+        "answer": 4
+    },
+    {
+        "question": "Who gave Draupadi a boon to have 5 husbands?",
+        "choice1": "Vishnu",
+        "choice2": "Brahma",
+        "choice3": "Shiva",
+        "choice4": "Indra",
+        "answer": 3
+    },
+    {
+        "question": "Who was the last Chief commander of Kaurava army?",
+        "choice1": "Shalya",
+        "choice2": "Karna",
+        "choice3": "Kritvarma",
+        "choice4": "Ashvathama",
+        "answer": 4
+    },
+    {
+        "question": "Who handed over a bow & three arrows to Barbarik?",
+        "choice1": "Kamakhaya",
+        "choice2": "Indra",
+        "choice3": "Parshuram",
+        "choice4": "Krishna",
+        "answer": 1
+    },
+    {
+        "question": "Who entered the heaven with Yudhisthir?",
+        "choice1": "Arjuna",
+        "choice2": "A Dog",
+        "choice3": "Draupadi",
+        "choice4": "Bheema",
+        "answer": 2
+    },
+    {
+        "question": "Who killed Drupad in Mahabharat War?",
+        "choice1": "Bheeshma",
+        "choice2": "Karna",
+        "choice3": "Drona",
+        "choice4": "Ashvathama",
+        "answer": 3
+    },
+    {
+        "question": "Which Apsara cursed Arjuna?",
+        "choice1": "Rambha",
+        "choice2": "Meneka",
+        "choice3": "Gandhari",
+        "choice4": "Urvashi",
+        "answer": 4
+    }
+]
